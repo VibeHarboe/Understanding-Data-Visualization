@@ -65,7 +65,7 @@ This scatter plot compares life expectancy with Gross National Income (GNI) per 
 
 ### 🖼️ Visualization References
 
-* [📷 Linear Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2825a34809dceee6ab497e556db157945ce481ff/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_linear.png)
+* [📷 Linear Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_linear.png)
 
 * [📷 Logarithmic Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_logarithmic.png)
 
@@ -95,8 +95,9 @@ This line plot shows the adoption of four household technologies (automobiles, r
 
 ### 🖼️ Visualization Reference
 
-[📷 View line plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/3.%20Technology%20Adoption%20Lineplot.png)
+[📷 View line plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/ab705004ddd7bd6e70794bf6632ead92357b97a9/visuals/Visualizing%20Two%20Variables/interpreting%20line%20plots.jpg)
 
+![Interpreting Line Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/ab705004ddd7bd6e70794bf6632ead92357b97a9/visuals/Visualizing%20Two%20Variables/interpreting%20line%20plots.jpg "Interpreting Line Plots)")
 
 ---
 
