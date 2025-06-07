@@ -103,6 +103,31 @@ This histogram shows the time of day when agoutis (rodents) were most active, ba
 
 ---
 
+## 📋 Exercise: Interpreting Box Plots
+
+Box plots of cigarette consumption per person in the U.S. from 1985 to 1995 show yearly distributions across 48 states. Each plot represents one year’s data, with the number of cigarette packets smoked per capita on the x-axis and years on the y-axis.
+
+### ✅ Categorized Statements
+
+**True:**
+
+* The lower quartile number of packets of cigarettes smoked per capita decreased every year from 1985 to 1995.
+* In 1990, three states were considered to have extreme values in the number of packets of cigarettes smoked per capita.
+* The median number of packets of cigarettes smoked per capita was below 100 from 1991 onwards.
+
+**False:**
+
+* The inter-quartile range of the number of packets of cigarettes smoked per capita was smallest in 1992.
+* The inter-quartile range of the number of packets of cigarettes smoked per capita decreased every year from 1985 to 1995.
+* The upper quartile number of packets of cigarettes smoked per capita decreased every year from 1985 to 1995.
+
+### 🖼️ Visualization Reference
+
+**Image:** Box plots of per-capita cigarette consumption (1985–1995)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/3.%20Cigarette-boxplot-interpretation.png)
+
+---
+
 ## 🧠 Learning Outcome
 
 * Understand how visual encoding (position, color, scale) drives insight
@@ -110,4 +135,3 @@ This histogram shows the time of day when agoutis (rodents) were most active, ba
 * Use visuals to identify meaningful breakpoints, trends, and anomalies in time series data
 
 ---
-
