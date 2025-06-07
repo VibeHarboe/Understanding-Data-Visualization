@@ -72,7 +72,7 @@ The histogram displays the distribution of average taxable income for various jo
 * The histogram is left-skewed.
 
 🖼️ **Visualization Reference:**
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/26e784e805727f0ff945bac19e94af701418ae61/visuals/Interpreting%20histograms.png)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/de16d94f6d7a99f30c468779a7bff10695c8e091/visuals/Interpreting%20histograms.jpg)
 
 ![Interpreting histograms](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/94bdacfdebe97b03e5d3691136ba1824e7ef1c01/visuals/Interpreting%20histograms.jpg "Interpreting histograms)")
 
