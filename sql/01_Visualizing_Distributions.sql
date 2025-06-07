@@ -21,10 +21,10 @@
 --
 -- No SQL code used in this exercise.
 
--- 🖼️ Visualization Reference:
--- [Image: filename.png]
-   ![Description](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/dd1ec5ad085cf69a3c4c5e452bccac84f37d17f9/visuals/1.%20Motivating-visualization.png)
--- Example: ![Bitcoin Year Start Prices](images/bitcoin-start-prices.png)
+-- 🖼️ Visualization Reference
+-- Description: Bitcoin price trend with January 1st markers (2016–2020)
+-- Image link: 
+-- [View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/91588ffdc7c83c781363c173a2b5cf6469edd437/visuals/1.%20Motivating-visualization.png)
 
 
 #####
