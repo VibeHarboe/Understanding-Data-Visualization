@@ -74,6 +74,8 @@ The histogram displays the distribution of average taxable income for various jo
 🖼️ **Visualization Reference:**
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/26e784e805727f0ff945bac19e94af701418ae61/visuals/Interpreting%20histograms.png)
 
+![Interpreting histograms](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/94bdacfdebe97b03e5d3691136ba1824e7ef1c01/visuals/Interpreting%20histograms.jpg "Interpreting histograms)")
+
 ---
 
 ## 📋 Exercise: Adjusting Bin Width
