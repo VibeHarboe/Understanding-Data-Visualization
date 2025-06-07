@@ -159,7 +159,9 @@ This dot plot visualizes social media followers (Facebook, Instagram, Twitter) f
 
 ### 🖼️ Visualization Reference
 
-[📷 View dot plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/7.%20Athlete%20Social%20Media%20Dotplot.png)
+[📷 View dot plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/7c99bf8ded071e1cd12c7dbf8ff0172190725071/visuals/Visualizing%20Two%20Variables/Interpreting%20dot%20plots.png)
+
+![Interpreting Dot Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/7c99bf8ded071e1cd12c7dbf8ff0172190725071/visuals/Visualizing%20Two%20Variables/Interpreting%20dot%20plots.jpg "Interpreting Dot Plots)")
 
 ---
 
