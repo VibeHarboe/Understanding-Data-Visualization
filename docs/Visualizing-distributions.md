@@ -159,12 +159,12 @@ This visualization shows box plots of cigarette consumption per year for each U.
 ### 🖼️ Visualization Reference
 
 **Image:** Cigarette consumption box plots by U.S. state (1985–1995)
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/d2e3c3aa581471a7ae986f2e89191f0938645480/visuals/Visualizing%20Distributions/Ordering%20box%20plots/Ordering%20box%20plots_IQR%20cigarette%20consumption.png)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/80aa2da4932ed96b0640c4139fd5e41c534a6dcb/visuals/Visualizing%20Distributions/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png)
 
 ➡️ All visuals from this exercise are available in the `visuals/` folder:
-[📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/c3d5bdf52f8f8af417b4d2475ed33b288fbb2816/visuals/Ordering%20box%20plots)
+[📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/80aa2da4932ed96b0640c4139fd5e41c534a6dcb/visuals/Visualizing%20Distributions/Ordering%20box%20plots)
 
-![Cigarette consumption box plots by U.S. state (1985–1995)](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/d2e3c3aa581471a7ae986f2e89191f0938645480/visuals/Visualizing%20Distributions/Ordering%20box%20plots/Ordering%20box%20plots_IQR%20cigarette%20consumption.png "Cigarette consumption box plots by U.S. state (1985–1995)")
+![Cigarette consumption box plots by U.S. state (1985–1995)](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/80aa2da4932ed96b0640c4139fd5e41c534a6dcb/visuals/Visualizing%20Distributions/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png "Cigarette consumption box plots by U.S. state (1985–1995)")
 
 ---
 
