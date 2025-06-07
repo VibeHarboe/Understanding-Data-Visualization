@@ -14,7 +14,7 @@ This chapter focuses on how to recognize patterns, distributions, skewness, and 
 ### Goal
 
 Visually identify which year between 2016 and 2020 started with the highest Bitcoin price.
-   
+<space>
 
 ### Visualization Insight
 
