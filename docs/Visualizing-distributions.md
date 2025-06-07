@@ -99,9 +99,10 @@ This histogram shows the time of day when agoutis (rodents) were most active, ba
 
 **Image:** Agouti activity histogram by time of day
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/26e784e805727f0ff945bac19e94af701418ae61/visuals/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG)
-
 ➡️ All timeslot-specific visuals from this exercise are available in the `visuals/` folder:
 [📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/6ec4f260cdac9dad7b16a937961550719ca82fb7/visuals/Adjusting%20bin%20width)
+
+![Agouti activity histogram by time of day](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/26e784e805727f0ff945bac19e94af701418ae61/visuals/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG "Agouti activity histogram by time of day)")
 
 ---
 
@@ -156,11 +157,10 @@ This visualization shows box plots of cigarette consumption per year for each U.
 
 **Image:** Cigarette consumption box plots by U.S. state (1985–1995)
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/a69341ede77402aea2fe4a28a92dd24ea6c3a6f9/visuals/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png)
-
-![Cigarette consumption box plots by U.S. state (1985–1995)](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/a69341ede77402aea2fe4a28a92dd24ea6c3a6f9/visuals/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png "Cigarette consumption box plots by U.S. state (1985–1995)")
-
 ➡️ All visuals from this exercise are available in the `visuals/` folder:
 [📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/c3d5bdf52f8f8af417b4d2475ed33b288fbb2816/visuals/Ordering%20box%20plots)
+
+![Cigarette consumption box plots by U.S. state (1985–1995)](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/a69341ede77402aea2fe4a28a92dd24ea6c3a6f9/visuals/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png "Cigarette consumption box plots by U.S. state (1985–1995)")
 
 ---
 
