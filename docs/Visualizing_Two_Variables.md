@@ -177,9 +177,11 @@ By sorting rows by either actual price or adjusted price, different insights can
 
 ### 🖼️ Visualization References
 
-* [📷 Sorted by Country](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/8.%20Big%20Mac%20Index%20Dotplot_Country.jpg)
-* [📷 Sorted by Adjusted Price](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/8.%20Big%20Mac%20Index%20Dotplot_GDP_Adjusted.jpg)
-* [📷 Sorted by Actual Price](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/8.%20Big%20Mac%20Index%20Dotplot_Actual.jpg)
+* [📷 Sorted by Country](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/0de94805beccf07c115c5180be3355206ca0c99d/visuals/Visualizing%20Two%20Variables/Sorting%20dot%20plots_country.png)
+* [📷 Sorted by GDP Adjusted Price](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/0de94805beccf07c115c5180be3355206ca0c99d/visuals/Visualizing%20Two%20Variables/Sorting%20dot%20plots_GDP%20adjusted%20price.png)
+* [📷 Sorted by Actual Price](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/0de94805beccf07c115c5180be3355206ca0c99d/visuals/Visualizing%20Two%20Variables/Sorting%20dot%20plots_price.png)
+
+![Sorting Dot Plots by GDP Adjusted Price](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/0de94805beccf07c115c5180be3355206ca0c99d/visuals/Visualizing%20Two%20Variables/Sorting%20dot%20plots_GDP%20adjusted%20price.png "Sorting Dot Plots by GDP Adjusted Price)")
 
 ---
 
@@ -190,4 +192,4 @@ By sorting rows by either actual price or adjusted price, different insights can
 * Evaluate correlation and causality using visuals.
 
 ➡️ All screenshots are stored in the `visuals/` folder, organized by exercise:
-[🔗 View visuals folder](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/main/visuals)
+[🔗 View visuals folder](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/0de94805beccf07c115c5180be3355206ca0c99d/visuals)
