@@ -46,12 +46,12 @@ This scatter plot displays the relationship between average life expectancy and 
 
 ### 🖼️ Visualization Reference
 
-[📷 View scatter plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/f0174fb9dc2290277661f3e39f9544c995cb85d1/visuals/Visualizing%20Two%20Variables/scatter-who-life-exp-vs-school.png)
+[📷 View scatter plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/195e1fc298cbe7a8d230e2e21b403803b76b42ae/visuals/Visualizing%20Two%20Variables/scatter-who-life-exp-vs-school.jpg)
 
 ➡️ All timeslot-specific visuals from this exercise are available in the `visuals/` folder:
 [📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/f0174fb9dc2290277661f3e39f9544c995cb85d1/visuals/Visualizing%20Two%20Variables)
 
-![Interpreting Scatter Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/f0174fb9dc2290277661f3e39f9544c995cb85d1/visuals/Visualizing%20Two%20Variables/scatter-who-life-exp-vs-school.png "Interpreting Scatter Plots)")
+![Interpreting Scatter Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/195e1fc298cbe7a8d230e2e21b403803b76b42ae/visuals/Visualizing%20Two%20Variables/scatter-who-life-exp-vs-school.jpg "Interpreting Scatter Plots)")
 
 ---
 
