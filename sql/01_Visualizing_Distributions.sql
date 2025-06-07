@@ -22,7 +22,7 @@
 -- No SQL code used in this exercise.
 
 -- 🖼️ Visualization Reference:
--- [Image: https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/91588ffdc7c83c781363c173a2b5cf6469edd437/visuals/1.%20Motivating-visualization.png]
+-- [Image: filename.png]
 -- ![Description](visuals/1. Motivating-visualization.png)
 -- Example: ![Bitcoin Year Start Prices](images/bitcoin-start-prices.png)
 
