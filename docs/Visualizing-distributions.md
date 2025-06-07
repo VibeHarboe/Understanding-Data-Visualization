@@ -100,12 +100,12 @@ This histogram shows the time of day when agoutis (rodents) were most active, ba
 ### 🖼️ Visualization Reference
 
 **Image:** Agouti activity histogram by time of day
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/26e784e805727f0ff945bac19e94af701418ae61/visuals/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/056ff659cc0519ab3a06f9e8d93ae4fd5a024d69/visuals/Visualizing%20Distributions/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG)
 
 ➡️ All timeslot-specific visuals from this exercise are available in the `visuals/` folder:
-[📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/6ec4f260cdac9dad7b16a937961550719ca82fb7/visuals/Adjusting%20bin%20width)
+[📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/056ff659cc0519ab3a06f9e8d93ae4fd5a024d69/visuals/Visualizing%20Distributions/Adjusting%20bin%20width)
 
-![Agouti activity histogram by time of day](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/26e784e805727f0ff945bac19e94af701418ae61/visuals/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG "Agouti activity histogram by time of day)")
+![Agouti activity histogram by time of day](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/056ff659cc0519ab3a06f9e8d93ae4fd5a024d69/visuals/Visualizing%20Distributions/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG "Agouti activity histogram by time of day)")
 
 ---
 
