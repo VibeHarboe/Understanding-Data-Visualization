@@ -128,6 +128,33 @@ Box plots of cigarette consumption per person in the U.S. from 1985 to 1995 show
 
 ---
 
+## 📋 Exercise: Ordering Box Plots
+
+This visualization shows box plots of cigarette consumption per year for each U.S. state from 1985 to 1995. Each box plot contains 11 data points (one per year) and displays variation across time.
+
+### 🔍 Sorting by variable:
+
+* Sorting alphabetically helps locate specific states.
+* Sorting by **median** helps identify states with highest/lowest typical consumption.
+* Sorting by **IQR** helps identify states with greatest variation in "typical" consumption.
+
+### ❌ False Statement (correct answer):
+
+> North Carolina has the fourth highest median consumption.
+
+### ✅ Correct Statements:
+
+* The lower whisker for Alabama is completely above 100 packs/capita/year.
+* New Hampshire has the third widest inter-quartile range of consumption.
+* Idaho has the fourth lowest median consumption.
+
+### 🖼️ Visualization Reference
+
+**Image:** Cigarette consumption box plots by U.S. state (1985–1995)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Ordering%20box%20plots/4.%20Cigarette%20State%20Boxplots.png)
+
+---
+
 ## 🧠 Learning Outcome
 
 * Understand how visual encoding (position, color, scale) drives insight
