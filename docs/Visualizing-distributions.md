@@ -153,6 +153,8 @@ This visualization shows box plots of cigarette consumption per year for each U.
 **Image:** Cigarette consumption box plots by U.S. state (1985–1995)
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/a69341ede77402aea2fe4a28a92dd24ea6c3a6f9/visuals/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png)
 
+![Cigarette consumption box plots by U.S. state (1985–1995)](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/a69341ede77402aea2fe4a28a92dd24ea6c3a6f9/visuals/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png "DCigarette consumption box plots by U.S. state (1985–1995)")
+
 ➡️ All visuals from this exercise are available in the `visuals/` folder:
 [📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/c3d5bdf52f8f8af417b4d2475ed33b288fbb2816/visuals/Ordering%20box%20plots)
 
