@@ -124,7 +124,10 @@ Box plots of cigarette consumption per person in the U.S. from 1985 to 1995 show
 ### 🖼️ Visualization Reference
 
 **Image:** Box plots of per-capita cigarette consumption (1985–1995)
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/3.%20Cigarette-boxplot-interpretation.png)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/c3d5bdf52f8f8af417b4d2475ed33b288fbb2816/visuals/Ordering%20box%20plots/Ordering%20box%20plots_us%20state.png)
+
+➡️ All visuals from this exercise are available in the `visuals/` folder:
+[📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/c3d5bdf52f8f8af417b4d2475ed33b288fbb2816/visuals/Ordering%20box%20plots)
 
 ---
 
