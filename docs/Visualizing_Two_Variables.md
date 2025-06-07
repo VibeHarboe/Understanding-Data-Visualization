@@ -125,9 +125,11 @@ This bar plot shows the number of famous athletes in ESPN’s Top 100 list acros
 
 ### 🖼️ Visualization References
 
-* [📷 Country/Sport Combination](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/5.%20Barplot_Country_Sport.png)
-* [📷 Country Only](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/5.%20Barplot_Country.png)
-* [📷 Sport Only](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/5.%20Barplot_Sport.png)
+* [📷 Country/Sport Combination](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/b9b6df892bcb4b6c69341d626cac8b16cd565fff/visuals/Visualizing%20Two%20Variables/Interpreting%20bar%20plots_country%20%2B%20sport.png)
+* [📷 Country Only](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/b9b6df892bcb4b6c69341d626cac8b16cd565fff/visuals/Visualizing%20Two%20Variables/Interpreting%20bar%20plots_country.png)
+* [📷 Sport Only](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/b9b6df892bcb4b6c69341d626cac8b16cd565fff/visuals/Visualizing%20Two%20Variables/Interpreting%20bar%20plots_sport.png)
+
+![Interpreting Bar Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/b9b6df892bcb4b6c69341d626cac8b16cd565fff/visuals/Visualizing%20Two%20Variables/Interpreting%20bar%20plots_country%20%2B%20sport.png "Interpreting Bar Plots)")
 
 ---
 
