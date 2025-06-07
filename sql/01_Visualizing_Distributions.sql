@@ -28,7 +28,7 @@
 
 #####
 
-![Task 1_Which Continents Host the Worlds Oldest Businesses](1.%20Motivating-visualization.png)
+![Task 1_Which Continents Host the Worlds Oldest Businesses](visuals/1. Motivating-visualization.png)
 
 
 ![Motivating visualization](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/91588ffdc7c83c781363c173a2b5cf6469edd437/visuals/1.%20Motivating-visualization.png "Motivating visualization")
