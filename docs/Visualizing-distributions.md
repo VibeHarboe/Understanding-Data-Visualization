@@ -26,7 +26,9 @@ This demonstrates how well-designed plots can quickly reveal trends and anomalie
 ### 🖼️ Visualization Reference
 
 **Image:** Bitcoin price trend with January 1st markers (2016–2020)
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/7c1df77eb232399255092be0925880064fac201b/visuals/1.%20Motivating-visualization.png)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2b46bd8c80db8f19e83bcddb1d08730f71e48422/visuals/Motivating-visualization.jpg)
+
+![Bitcoin price trend with January 1st markers (2016–2020)](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2b46bd8c80db8f19e83bcddb1d08730f71e48422/visuals/Motivating-visualization.jpg "Bitcoin price trend with January 1st markers (2016–2020))")
 
 ---
 
