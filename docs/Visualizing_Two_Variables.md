@@ -143,7 +143,9 @@ This stacked bar plot shows the percentage of people aged 65+ in England needing
 
 ### 🖼️ Visualization Reference
 
-[📷 View stacked bar plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/Visualizing%20Two%20Variables/6.%20Assistance%20Needs%20Stacked%20Barplot.png)
+[📷 View stacked bar plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/1abc4558e5b6e3403505a32d9c24b17614f1018d/visuals/Visualizing%20Two%20Variables/Interpreting%20stacked%20bar%20plots.png)
+
+![Interpreting Stacked Bar Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/1abc4558e5b6e3403505a32d9c24b17614f1018d/visuals/Visualizing%20Two%20Variables/Interpreting%20stacked%20bar%20plots.png "Interpreting Stacked Bar Plots)")
 
 ---
 
