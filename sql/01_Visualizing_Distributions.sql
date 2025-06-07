@@ -23,7 +23,7 @@
 
 -- 🖼️ Visualization Reference:
 -- [Image: filename.png]
--- ![Description](visuals/1. Motivating-visualization.png)
+   ![Description](visuals/1. Motivating-visualization.png)
 -- Example: ![Bitcoin Year Start Prices](images/bitcoin-start-prices.png)
 
 
