@@ -22,8 +22,8 @@
 -- No SQL code used in this exercise.
 
 -- 🖼️ Visualization Reference:
--- [Image: filename.png]
--- ![Description](relative/path/to/filename.png)
+-- [Image: 1. Motivating-visualization.png]
+-- ![Description](visuals/1. Motivating-visualization.png)
 -- Example: ![Bitcoin Year Start Prices](images/bitcoin-start-prices.png)
 
 
