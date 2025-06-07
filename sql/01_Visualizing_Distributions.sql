@@ -23,4 +23,4 @@
 
 -- 🖼️ Visualization Reference
 -- Description: Bitcoin price trend with January 1st markers (2016–2020)
-   ![View on GitHub](visuals/1. Motivating-visualization.png)
+   [View on GitHub] ▶️ (visuals/1. Motivating-visualization.png)
