@@ -110,6 +110,31 @@ Chartjunk – Hip-Hop Song Timeline
 
 ---
 
+## 🏛️ Exercise: Multiple Plots – German Bundesrat Coalition Analysis
+
+To understand **complex datasets**, it's often necessary to present multiple visualizations that work together as a dashboard. This exercise explores political coalitions in the German Bundesrat (Federal Council) using a collection of map and bar plots.
+
+*Each of the three subplots in the dashboard offers a distinct lens:*
+* **Map plot by party:** Shows which party holds seats in which German states.
+* **Bar plot by party:** Breaks down the number of seats each party holds based on their coalition role (primary, secondary, or tertiary).
+* **Bar plot by coalition:** Shows the total seats held by combinations of parties forming coalitions.
+
+*Transparency in the bar plot encodes party influence:*
+* **Primary party:** Fully opaque
+* **Secondary party:** Semi-transparent
+* **Tertiary party:** Very transparent
+
+### ✅ Correct Interpretation
+> The SPD have more seats as the tertiary party in a coalition than any other party.
+
+### 🖼️ Visualization References
+Map plot by party
+Bar plot by party
+Bar plot by coalition
+
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+
+![Chartjunk – Hip-Hop Song Timeline](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Chartjunk – Hip-Hop Song Timeline)")
 
 
 ---
