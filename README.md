@@ -1,59 +1,66 @@
 # 📊 Understanding Data Visualization
 
-This repository is part of my Data Analyst training at DataCamp and focuses on mastering the foundational concepts of **data visualization**. Through SQL and visual storytelling principles, this project illustrates how visual choices impact interpretation and decision-making.
+**Repository type:** SQL Portfolio Project  
+**Training:** Data Analyst Career Track, DataCamp  
+**Project focus:** Data Visualization Theory, Best Practices & Visual Analytics
 
 ---
 
-## 🎯 Objective
+## 🎯 Purpose
 
-To demonstrate real-world best practices in designing clear, honest, and insightful data visualizations — while avoiding misleading or confusing graphs. All exercises are inspired by actual use cases and translated into analytical workflows.
+This project demonstrates how thoughtful visual design improves insight and interpretation in real-world datasets. Each chapter translates theoretical best practices into hands-on exercises, grounded in business use cases and analytical thinking.
 
 ---
 
 ## 📦 Repository Structure
 
 ```
-├── sql/                        # All visualization queries and analytical exercises
-│   ├── 01_Visualizing_Distributions.sql
-│   ├── 02_Visualizing_Two_Variables.sql
-│   ├── 03_Color_and_Shape.sql
-│   └── 04_Plot_Problems_and_Misuse.sql
-├── data/                      # Sample datasets used for testing visuals
-├── docs/                      # Theoretical documentation and cheat sheets
-│   ├── types-of-charts.md
-│   ├── misleading-visuals.md
-│   ├── visual-encodings.md
-│   ├── grammar-of-graphics.md
-│   └── real-world-visual-strategy.md
+├── docs/                      # Theoretical documentation & Markdown guides
+│   ├── Visualizing Distributions.md
+│   ├── Visualizing Two Variables.md
+│   ├── The Color and The Shape.md
+│   └── 99 Problems But a Plot Ain't One.md
+├── visuals/                   # Saved charts used in exercises & walkthroughs
 ├── README.md                  # Project overview
 ```
 
----
-
-## ✅ What I Learned
-
-* Choosing the right **chart types** for different data distributions
-* Spotting and correcting **misleading graphs** (axis abuse, area bias, etc.)
-* Using **color, size, and shape** intentionally to reduce noise and increase insight
-* Applying the **Grammar of Graphics** principles
-* Building credible visuals to **influence stakeholders** and support decision-making
 
 ---
 
-## 🛠 Tools Used
+## ✅ Learning Outcomes
 
-* PostgreSQL (via DataCamp SQL workspace)
-* DataCamp learning platform
-* Markdown & Git for version control
-
----
-
-## 💼 Real-World Scenarios Covered
-
-* Marketing KPIs visualized by segment and region
-* Campaign A/B testing through bar and line charts
-* Common visual fallacies in business dashboards
+- Distinguishing **good vs. misleading visualizations**
+- Choosing appropriate **chart types** based on variable types
+- Leveraging **color, shape, size** to emphasize insight (not aesthetics)
+- Recognizing **chartjunk**, dual axes issues, and overplotting
+- Applying **visual ethics** and the Grammar of Graphics
 
 ---
 
-> "A bad chart can distort the truth. A good one reveals it instantly." — This repository shows the difference.
+## 📂 Topics Covered
+
+- Income distribution, animal tracking, education stats, social data
+- Marketing dashboards, stock price comparisons, country-level KPIs
+- COVID-19 trends, Spotify & ESPN datasets, survey & health data
+
+---
+
+## 🛠️ Tools & Format
+
+- PostgreSQL (via DataCamp SQL workspace)
+- Markdown documentation for theory, walkthroughs & interpretation
+- GitHub structure inspired by real-world Data Analyst portfolios
+
+---
+
+📁 Explore the `docs/` folder for full learning material  
+
+🖼️ See `visuals/` folder for real visual outputs and applied theory
+
+📂 Review [Introduction to Statistics (SQL version)](https://github.com/VibeHarboe/Introduction-to-Statistics.git) repository to follow analytical thought processes  
+
+---
+
+> “Data graphics should draw the viewer's attention to the sense and substance, not something else.”  
+> — *Edward Tufte*
+
