@@ -70,8 +70,10 @@ This scatter plot shows the speed of two rodent species (agouti and paca) by tim
 
 ### 🖼️ Visualization References
 
-* [📷 With perceptually uniform colors](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/The%20Color%20and%20the%20Shape/3.%20Equal%20Perception%20Color%20Palette.png)
-* [📷 Without perceptually uniform colors](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/The%20Color%20and%20the%20Shape/3.%20Unequal%20Perception%20Color%20Palette.png)
+* [📷 With perceptually uniform colors](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/d1018940a50f5126f478d8649a077e0f489f7949/visuals/The%20color%20and%20the%20shape/Eye-catching%20colors_with_equal%20perception%20color%20palette.png)
+* [📷 Without perceptually uniform colors](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/d1018940a50f5126f478d8649a077e0f489f7949/visuals/The%20color%20and%20the%20shape/Eye-catching%20colors_without_equal%20perception%20color%20palette.png)
+
+![With perceptually uniform colors](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/d1018940a50f5126f478d8649a077e0f489f7949/visuals/The%20color%20and%20the%20shape/Eye-catching%20colors_with_equal%20perception%20color%20palette.png "With perceptually uniform colors)")
 
 ---
 
