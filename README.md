@@ -20,7 +20,9 @@ This project demonstrates how thoughtful visual design improves insight and inte
 │   ├── Visualizing Distributions.md
 │   ├── Visualizing Two Variables.md
 │   ├── The Color and The Shape.md
-│   └── 99 Problems But a Plot Ain't One.md
+│   ├── 99 Problems But a Plot Ain't One.md
+│   ├── chart-type-guide.md
+│   └── data-communication-concepts.md
 ├── visuals/                   # Saved charts used in exercises & walkthroughs
 │   ├── Chart Type Guide/      # Overview of the most common chart types
 ├── README.md                  # Project overview
