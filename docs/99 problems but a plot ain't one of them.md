@@ -30,7 +30,7 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 
 ## 📋 Exercise: Pie Plots
 
-Pie plots convert bar data into circular segments but are harder for humans to interpret due to the difficulty in perceiving angles compared to lengths. This exercise uses alcohol consumption data from the Health Survey for England. Each age group is shown as a pie chart and a bar chart for better comparison.
+**Pie plots convert bar data into circular segments but are harder for humans to interpret due to the difficulty in perceiving angles compared to lengths. This exercise uses alcohol consumption data from the Health Survey for England. Each age group is shown as a pie chart and a bar chart for better comparison.
 
 ### ✅ Correct Interpretation
 
@@ -60,6 +60,17 @@ Pie plots convert bar data into circular segments but are harder for humans to i
 
 ---
 
+## 📉 Exercise: Bar Plot Axes
+Bar plots are a powerful tool for visualizing categorical data. However, not including zero on the y-axis can mislead viewers, because we naturally compare bar lengths to interpret magnitude. In this exercise, you're comparing two versions of a stacked bar plot about asthma prevalence across age groups. Including zero provides a clearer and more honest representation.
+
+### ✅ Correct Interpretation
+The percentage of asthmatics is less than 15% for every age group.
+
+### 🖼️ Visualization Reference
+
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+
+![Rose plots – Wind direction](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Rose plots – Wind direction)")
 
 ---
 
