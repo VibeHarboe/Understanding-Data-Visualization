@@ -102,7 +102,7 @@ This histogram shows the time of day when agoutis (rodents) were most active, ba
 **Image:** Agouti activity histogram by time of day
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/056ff659cc0519ab3a06f9e8d93ae4fd5a024d69/visuals/Visualizing%20Distributions/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG)
 
-➡️ All timeslot-specific visuals from this exercise are available in the `visuals/` folder:
+➡️ All visuals from this exercise are available in the `visuals/` folder:
 [📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/056ff659cc0519ab3a06f9e8d93ae4fd5a024d69/visuals/Visualizing%20Distributions/Adjusting%20bin%20width)
 
 ![Agouti activity histogram by time of day](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/056ff659cc0519ab3a06f9e8d93ae4fd5a024d69/visuals/Visualizing%20Distributions/Adjusting%20bin%20width/2%20hours_Adjusting%20bin%20width.PNG "Agouti activity histogram by time of day)")
