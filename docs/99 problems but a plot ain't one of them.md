@@ -38,9 +38,9 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 
 ### 🖼️ Visualization Reference
 
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/c8b8d64ea51a309826fc98cf263d17ff68b05da9/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Pie%20plots.png)
 
-![Pie vs Bar Plot – Alcohol Consumption](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Pie vs Bar Plot – Alcohol Consumption)")
+![Pie vs Bar Plot – Alcohol Consumption](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/c8b8d64ea51a309826fc98cf263d17ff68b05da9/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/small/Pie%20plots_smalll.jpg "Pie vs Bar Plot – Alcohol Consumption)")
 
 ---
 
@@ -136,7 +136,7 @@ Bar plot by coalition
 
 ![Chartjunk – Hip-Hop Song Timeline](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Chartjunk – Hip-Hop Song Timeline)")
 
-
 ---
 
-🧰 All relevant visuals will be stored in the `visuals/` folder and linked per exercise.
+➡️ All screenshots are stored in the `visuals/` folder, organized by exercise:
+[🔗 View visuals folder](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/0de94805beccf07c115c5180be3355206ca0c99d/visuals)
