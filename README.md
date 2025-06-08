@@ -15,56 +15,68 @@ This project demonstrates how thoughtful visual design improves insight and inte
 ## 📦 Repository Structure
 
 ```
-├── data projects/             # Real world inspired data projects
-├── docs/                      # Theoretical documentation & Markdown guides
-│   ├── Visualizing Distributions.md
-│   ├── Visualizing Two Variables.md
-│   ├── The Color and The Shape.md
-│   ├── 99 Problems But a Plot Ain't One.md
+├── data projects/             # Real-world inspired data investigations
+├── docs/                      # Markdown-based learning guides & documentation
+│   ├── Visualizing-distributions.md
+│   ├── Visualizing-two-variables.md
+│   ├── The-color-and-the-shape.md
+│   ├── 99-problems-but-a-plot.md
 │   ├── chart-type-guide.md
-│   └── data-communication-concepts.md
-├── visuals/                   # Saved charts used in exercises & walkthroughs
-│   ├── Chart Type Guide/      # Overview of the most common chart types
-├── README.md                  # Project overview
+│   ├── data-communication-concepts.md
+│   ├── reporting-structures.md
+│   ├── audience-mapping-guide.md
+│   ├── presentation-tips.md
+├── visuals/                   # Plots and graphics used in exercises & modules
+│   ├── Chart Type Guide/
+│   ├── Visualizing Distributions/
+│   ├── Visualizing Two Variables/
+│   ├── 99 Problems But a Plot Ain’t One/
+│   ├── Chart Type Guide/
+├── README.md                  # Repository overview
 ```
+
+---
 
 
 ---
 
 ## ✅ Learning Outcomes
 
-- Distinguishing **good vs. misleading visualizations**
-- Choosing appropriate **chart types** based on variable types
-- Leveraging **color, shape, size** to emphasize insight (not aesthetics)
-- Recognizing **chartjunk**, dual axes issues, and overplotting
-- Applying **visual ethics** and the Grammar of Graphics
+- Select appropriate chart types for different data and analytical goals  
+- Identify and avoid misleading plots through design best practices  
+- Apply color, shape, scale, and layout to enhance clarity and insight  
+- Translate raw data into stakeholder-ready visual stories  
+- Communicate insights clearly through dashboards, reports, and presentations  
 
 ---
 
 ## 📂 Topics Covered
 
-- Income distribution, animal tracking, education stats, social data
-- Marketing dashboards, stock price comparisons, country-level KPIs
-- COVID-19 trends, Spotify & ESPN datasets, survey & health data
+- 📈 Distribution analysis of income, education, and consumption
+- 🧭 Survey data, health metrics, and public sentiment visualizations
+- 🐾 Animal tracking, stock market trends, COVID-19 cases
+- 📊 Dashboard design, OKRs, KPI reporting, and stakeholder targeting
 
 ---
 
 ## 🛠️ Tools & Format
 
-- PostgreSQL (via DataCamp SQL workspace)
-- Markdown documentation for theory, walkthroughs & interpretation
-- GitHub structure inspired by real-world Data Analyst portfolios
+- SQL (via DataCamp SQL workspace)
+- Markdown for theory and reflection
+- GitHub used as a professional communication medium and portfolio
 
 ---
 
-📁 Explore the `docs/` folder for full learning material  
-
-🖼️ See `visuals/` folder for real visual outputs and applied theory
-
-📂 Review [Introduction to Statistics (SQL version)](https://github.com/VibeHarboe/Introduction-to-Statistics.git) repository to follow analytical thought processes  
+📁 Explore the `docs/` folder for all chapter-based walkthroughs and concept files  
+🖼️ Explore `visuals/` for output graphics from each learning module  
+📂 View `data-projects/` to follow applied analytics scenarios
 
 ---
 
 > “Data graphics should draw the viewer's attention to the sense and substance, not something else.”  
 > — *Edward Tufte*
 
+---
+
+> “Clarity trumps cleverness. A chart is only as good as the insight it enables.”  
+> — *Inspired by Tufte & Few*
