@@ -30,7 +30,7 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 
 ## 📋 Exercise: Pie Plots
 
-**Pie plots convert bar data into circular segments but are harder for humans to interpret due to the difficulty in perceiving angles compared to lengths. This exercise uses alcohol consumption data from the Health Survey for England. Each age group is shown as a pie chart and a bar chart for better comparison.
+**Pie plots** convert bar data into circular segments but are harder for humans to interpret due to the difficulty in perceiving angles compared to lengths. This exercise uses alcohol consumption data from the Health Survey for England. Each age group is shown as a pie chart and a bar chart for better comparison.
 
 ### ✅ Correct Interpretation
 
@@ -61,7 +61,7 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 
 ## 📉 Exercise: Bar Plot Axes
 
-**Bar plots are a powerful tool for visualizing categorical data. However, not including zero on the y-axis can mislead viewers, because we naturally compare bar lengths to interpret magnitude. In this exercise, you're comparing two versions of a stacked bar plot about asthma prevalence across age groups. Including zero provides a clearer and more honest representation.
+**Bar plots** are a powerful tool for visualizing categorical data. However, not including zero on the y-axis can mislead viewers, because we naturally compare bar lengths to interpret magnitude. In this exercise, you're comparing two versions of a stacked bar plot about asthma prevalence across age groups. Including zero provides a clearer and more honest representation.
 
 ### ✅ Correct Interpretation
 The percentage of asthmatics is less than 15% for every age group.
@@ -76,7 +76,7 @@ The percentage of asthmatics is less than 15% for every age group.
 
 ## 📉 Exercise: Dual Axes
 
-**Using dual y-axes is a widely discouraged practice in data visualization. While it might seem like a handy way to show two variables with different scales on the same plot, it introduces a major risk: you can manipulate the visual appearance to imply misleading correlations.
+Using **dual y-axes** is a widely discouraged practice in data visualization. While it might seem like a handy way to show two variables with different scales on the same plot, it introduces a major risk: you can manipulate the visual appearance to imply misleading correlations.
 
 **This exercise displays the stock prices of Microsoft (MSFT) and Amazon (AMZN) from 2017–2020. Prices are adjusted for splits and dividends, but not scaled relative to each other. Sliders allow you to adjust the vertical position (+) and steepness (*) of the AMZN line.
 
@@ -94,16 +94,24 @@ Dual Axes – MSFT vs. AMZN
 
 ## 💥 Exercise: Chartjunk
 
-**Chartjunk refers to all unnecessary or distracting elements in a visualization that do not improve the viewer’s understanding of the data. In fact, they often obscure insight and clarity.
+**Chartjunk** refers to all unnecessary or distracting elements in a visualization that do not improve the viewer’s understanding of the data. In fact, they often obscure insight and clarity.
 
 This exercise revisits the scatter plot of critically acclaimed hip-hop songs over time (from Chapter 2), but now it's overloaded with stylistic noise—gold backgrounds, dollar signs, thick grid lines, and more.
 
-✅ Correct Interpretation
+### ✅ Correct Interpretation
 All of the above
 All visual elements—chunky grid lines, dollar symbols, bold/italic labels, and gold backgrounds—are considered chartjunk.
 
-🖼️ Visualization Reference
+### 🖼️ Visualization Reference
 Chartjunk – Hip-Hop Song Timeline
+
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+
+![Chartjunk – Hip-Hop Song Timeline](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Chartjunk – Hip-Hop Song Timeline)")
+
+---
+
+
 
 ---
 
