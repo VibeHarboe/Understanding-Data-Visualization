@@ -90,7 +90,9 @@ This exercise demonstrates how different types of color scales—**qualitative**
 
 ### 🖼️ Visualization Reference
 
-[📷 View color scale dropdown](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/The%20Color%20and%20the%20Shape/4.%20Color%20Scale%20Dropdown.png)
+[📷 View color scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/1dcd021307deee0874bac41a38cea095431a1095/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale_1.png)
+
+![Choosing the Right Color Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/1dcd021307deee0874bac41a38cea095431a1095/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale_1.png "Choosing the Right Color Scale)")
 
 ---
 
