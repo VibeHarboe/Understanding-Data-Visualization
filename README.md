@@ -15,6 +15,7 @@ This project demonstrates how thoughtful visual design improves insight and inte
 ## 📦 Repository Structure
 
 ```
+├── data projects/             # Real world inspired data projects
 ├── docs/                      # Theoretical documentation & Markdown guides
 │   ├── Visualizing Distributions.md
 │   ├── Visualizing Two Variables.md
