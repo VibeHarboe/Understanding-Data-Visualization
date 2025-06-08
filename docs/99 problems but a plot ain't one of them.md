@@ -53,9 +53,9 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 
 ### 🖼️ Visualization Reference
 
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/6c1bd129bd7d14d0073808ccc95ce7797909ccf5/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Rose-plots.png)
 
-![Rose plots – Wind direction](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Rose plots – Wind direction)")
+![Rose plots – Wind direction](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/6c1bd129bd7d14d0073808ccc95ce7797909ccf5/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/small/Rose-plots_small.png "Rose plots – Wind direction)")
 
 ---
 
@@ -68,9 +68,13 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 
 ### 🖼️ Visualization Reference
 
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+[📷 Exclude Zero On Y-Axis](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/exclude%20zero%20on%20y-axis..png)
 
-![Bar Plot Axes](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Bar Plot Axes)")
+![Exclude Zero On Y-Axis](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/exclude%20zero%20on%20y-axis..png "Exclude Zero On Y-Axis)")
+
+[📷 Include Zero On Y-Axis](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Include%20zero%20on%20y-axis..png)
+
+![Include Zero On Y-Axis](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Include%20zero%20on%20y-axis..png "Include Zero On Y-Axis)")
 
 ---
 
@@ -86,9 +90,9 @@ Using **dual y-axes** is a widely discouraged practice in data visualization. Wh
 ### 🖼️ Visualization Reference
 Dual Axes – MSFT vs. AMZN
 
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/0ddfae49a40b0a1223845d249d514ed25e9028f3/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Dual%20axes.png)
 
-![Dual Axes – MSFT vs. AMZN](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Dual Axes – MSFT vs. AMZN)")
+![Dual Axes – MSFT vs. AMZN](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/0ddfae49a40b0a1223845d249d514ed25e9028f3/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Dual%20axes.png "Dual Axes – MSFT vs. AMZN)")
 
 ---
 
@@ -104,9 +108,9 @@ This exercise revisits the scatter plot of critically acclaimed hip-hop songs ov
 ### 🖼️ Visualization Reference
 Chartjunk – Hip-Hop Song Timeline
 
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Chartjunk_scatter-hiphop-bling-new.png)
 
-![Chartjunk – Hip-Hop Song Timeline](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Chartjunk – Hip-Hop Song Timeline)")
+![Chartjunk – Hip-Hop Song Timeline](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Chartjunk_scatter-hiphop-bling-new.png "Chartjunk – Hip-Hop Song Timeline)")
 
 ---
 
@@ -128,13 +132,14 @@ To understand **complex datasets**, it's often necessary to present multiple vis
 > The SPD have more seats as the tertiary party in a coalition than any other party.
 
 ### 🖼️ Visualization References
-Map plot by party
-Bar plot by party
-Bar plot by coalition
 
-[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+[📷 Bar plot by coalition](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/bar_coalition.png)
 
-![Chartjunk – Hip-Hop Song Timeline](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Chartjunk – Hip-Hop Song Timeline)")
+[📷 Bar plot by party](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/bar_plot_per_party.png)
+
+[📷 Map plot by party](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/3ed3ba2540a1943add8e85982a3d5d0ceadd6d86/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/map_plot_per_party.png)
+
+![Multiple Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/be0d01688ab6d40894fe9c5fd358d6c4d141f1b7/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One/Multiple%20Plots.png "Multiple Plots)")
 
 ---
 
