@@ -163,8 +163,9 @@ Correlation heatmaps display the pairwise relationships between numeric variable
 
 ### 🖼️ Visualization References
 
-* ![Correlation Heatmap](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/The%20Color%20and%20the%20Shape/Interpreting%20correlation%20heatmaps_1.png)
-* ![Answer Categories](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/The%20Color%20and%20the%20Shape/Interpreting%20correlation%20heatmaps_2.png)
+[📷 Correlation Heatmap](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2072ea45504aabe890c4ba74f4d5ee649a37399f/visuals/The%20color%20and%20the%20shape/Interpreting%20correlation%20heatmaps.png)
+
+![Correlation Heatmap](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2072ea45504aabe890c4ba74f4d5ee649a37399f/visuals/The%20color%20and%20the%20shape/Interpreting%20correlation%20heatmaps.png "Correlation Heatmap)")
 
 ---
 
@@ -174,5 +175,5 @@ Correlation heatmaps display the pairwise relationships between numeric variable
 * Apply grouping techniques like faceting for clarity.
 * Make aesthetic choices that support clarity, accessibility, and insight.
 
-➡️ All relevant visuals will be stored in the `visuals/` folder and linked per exercise.
-
+➡️ All screenshots are stored in the `visuals/` folder, organized by exercise:
+[🔗 View visuals folder](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/2072ea45504aabe890c4ba74f4d5ee649a37399f/visuals/The%20color%20and%20the%20shape)
