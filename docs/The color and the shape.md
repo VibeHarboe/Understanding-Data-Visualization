@@ -137,7 +137,9 @@ Pair plots are a powerful tool for summarizing multivariate datasets. They simul
 
 ### 🖼️ Visualization References
 
-* ![Pair Plot – Animal Activity](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2b1ec368e1032a57a4f6f7ac3b3f07b08c7cfe48/visuals/The%20color%20and%20the%20shape/pairs-animal-activity-new.png)
+[📷 Correct Interpretation](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2b1ec368e1032a57a4f6f7ac3b3f07b08c7cfe48/visuals/The%20color%20and%20the%20shape/pairs-animal-activity-new.png)
+
+![Pair Plot – Animal Activity](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/2b1ec368e1032a57a4f6f7ac3b3f07b08c7cfe48/visuals/The%20color%20and%20the%20shape/pairs-animal-activity-new.png "Correct Interpretation)")
 
 ---
 
