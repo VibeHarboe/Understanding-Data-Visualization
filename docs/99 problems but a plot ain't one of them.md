@@ -52,7 +52,6 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 > **The predominant wind directions were N and SW.**
 
 ### 🖼️ Visualization Reference
-- ![Rose plots – Wind direction](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/99%20Problems%20But%20a%20Plot%20Ain%27t%20One/Rose-plots.png)
 
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
 
@@ -61,7 +60,7 @@ This chapter focuses on recognizing and avoiding **common mistakes in data visua
 ---
 
 ## 📉 Exercise: Bar Plot Axes
-Bar plots are a powerful tool for visualizing categorical data. However, not including zero on the y-axis can mislead viewers, because we naturally compare bar lengths to interpret magnitude. In this exercise, you're comparing two versions of a stacked bar plot about asthma prevalence across age groups. Including zero provides a clearer and more honest representation.
+**Bar plots are a powerful tool for visualizing categorical data. However, not including zero on the y-axis can mislead viewers, because we naturally compare bar lengths to interpret magnitude. In this exercise, you're comparing two versions of a stacked bar plot about asthma prevalence across age groups. Including zero provides a clearer and more honest representation.
 
 ### ✅ Correct Interpretation
 The percentage of asthmatics is less than 15% for every age group.
@@ -70,7 +69,38 @@ The percentage of asthmatics is less than 15% for every age group.
 
 [📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
 
-![Rose plots – Wind direction](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Rose plots – Wind direction)")
+![Bar Plot Axes](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Bar Plot Axes)")
+
+---
+
+## 📉 Exercise: Dual Axes
+**Using dual y-axes is a widely discouraged practice in data visualization. While it might seem like a handy way to show two variables with different scales on the same plot, it introduces a major risk: you can manipulate the visual appearance to imply misleading correlations.
+
+**This exercise displays the stock prices of Microsoft (MSFT) and Amazon (AMZN) from 2017–2020. Prices are adjusted for splits and dividends, but not scaled relative to each other. Sliders allow you to adjust the vertical position (+) and steepness (*) of the AMZN line.
+
+### ✅ Correct Interpretation
+You can't make a conclusion about the correlation of MSFT and AMZN from this plot.
+
+### 🖼️ Visualization Reference
+Dual Axes – MSFT vs. AMZN
+
+[📷 View on GitHub](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg)
+
+![Dual Axes – MSFT vs. AMZN](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/69fede89eb1265976ba758ea365746a13915545f/visuals/Visualizing%20Distributions/Interpreting%20histograms.jpg "Dual Axes – MSFT vs. AMZN)")
+
+---
+
+## 💥 Exercise: Chartjunk
+**Chartjunk refers to all unnecessary or distracting elements in a visualization that do not improve the viewer’s understanding of the data. In fact, they often obscure insight and clarity.
+
+This exercise revisits the scatter plot of critically acclaimed hip-hop songs over time (from Chapter 2), but now it's overloaded with stylistic noise—gold backgrounds, dollar signs, thick grid lines, and more.
+
+✅ Correct Interpretation
+All of the above
+All visual elements—chunky grid lines, dollar symbols, bold/italic labels, and gold backgrounds—are considered chartjunk.
+
+🖼️ Visualization Reference
+Chartjunk – Hip-Hop Song Timeline
 
 ---
 
