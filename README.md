@@ -21,6 +21,7 @@ This project demonstrates how thoughtful visual design improves insight and inte
 │   ├── The Color and The Shape.md
 │   └── 99 Problems But a Plot Ain't One.md
 ├── visuals/                   # Saved charts used in exercises & walkthroughs
+│   ├── Chart Type Guide/      # Overview of the most common chart types
 ├── README.md                  # Project overview
 ```
 
