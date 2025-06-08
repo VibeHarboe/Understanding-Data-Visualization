@@ -99,8 +99,7 @@ Dual Axes – MSFT vs. AMZN
 This exercise revisits the scatter plot of critically acclaimed hip-hop songs over time (from Chapter 2), but now it's overloaded with stylistic noise—gold backgrounds, dollar signs, thick grid lines, and more.
 
 ### ✅ Correct Interpretation
-> All of the above
-> All visual elements—chunky grid lines, dollar symbols, bold/italic labels, and gold backgrounds—are considered chartjunk.
+> All visual elements — chunky grid lines, dollar symbols, bold/italic labels, and gold backgrounds—are considered chartjunk.
 
 ### 🖼️ Visualization Reference
 Chartjunk – Hip-Hop Song Timeline
