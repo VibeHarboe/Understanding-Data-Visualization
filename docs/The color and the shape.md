@@ -109,6 +109,12 @@ The technique used allows these two artists to visually stand out against all ot
 
 > The Notorious B.I.G. has 9 and 2Pac has 8.
 
+### 🖼️ Visualization Reference
+
+[📷 Highlighting Data](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/7d9190f87a940b7e8cd1689198e5fb9d728f8351/visuals/The%20color%20and%20the%20shape/Highlighting%20data.png)
+
+![Highlighting Data](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/7d9190f87a940b7e8cd1689198e5fb9d728f8351/visuals/The%20color%20and%20the%20shape/Highlighting%20data.png "Highlighting Data)")
+
 ---
 
 ## 📋 Exercise: Interpreting Pair Plots
