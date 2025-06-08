@@ -143,5 +143,12 @@ To understand **complex datasets**, it's often necessary to present multiple vis
 
 ---
 
+## 🎯 Learning Outcome
+
+* ✅ Spot and avoid common data viz issues like chartjunk, dual axes, and misleading scales
+* ✅ Choose the right plot type to improve clarity and accuracy
+* ✅ Use color, emphasis, and layout to highlight data without distorting insight
+* ✅ Evaluate when multiple plots are needed to tell the full story
+
 ➡️ All screenshots are stored in the `visuals/` folder, organized by exercise:
-[🔗 View visuals folder](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/0de94805beccf07c115c5180be3355206ca0c99d/visuals)
+[🔗 View visuals folder](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/03c7657d640edd45c0819fa7b15be50420445a4a/visuals/99%20Problems%20But%20a%20Plot%20Ain't%20One)
