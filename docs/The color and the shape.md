@@ -54,7 +54,9 @@ Line plots can be modified in several ways to distinguish between multiple categ
 
 ### 🖼️ Visualization Reference
 
-[📷 View dropdown and line aesthetics](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/main/visuals/The%20Color%20and%20the%20Shape/2.%20FAAMG%20Line%20Plot%20Dropdown.png)
+[📷 View dropdown and line aesthetics](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e54a1bb6feba49008960f4d7a49f4fa8cd1b7f1e/visuals/The%20color%20and%20the%20shape/Another%20dimension%20for%20line%20plots_color.png)
+
+![Another Dimension for Line Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e54a1bb6feba49008960f4d7a49f4fa8cd1b7f1e/visuals/The%20color%20and%20the%20shape/Another%20dimension%20for%20line%20plots_color.png "Another Dimension for Line Plots)")
 
 ---
 
