@@ -65,9 +65,9 @@ This scatter plot compares life expectancy with Gross National Income (GNI) per 
 
 ### 🖼️ Visualization References
 
-* [📷 Linear Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_linear.png)
+[📷 Linear Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_linear.png)
 
-* [📷 Logarithmic Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_logarithmic.png)
+[📷 Logarithmic Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_logarithmic.png)
 
 ![Trends with Scatter Plots - Logarithmic Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/8b723764ed0d1dd7fbf302220ddb35e4025dbc12/visuals/Visualizing%20Two%20Variables/Trends%20with%20scatter%20plots_logarithmic.png "Trends with Scatter Plots - Logarithmic Scale)")
 
