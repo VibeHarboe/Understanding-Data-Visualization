@@ -1,85 +1,94 @@
-# 💬 Data Communication Concepts
+# 🗣️ Data Communication Concepts
 
-**Course:** Understanding Data Communication (DataCamp)  
-**Part of repository:** [Understanding Data Visualization](https://github.com/VibeHarboe/Understanding-Data-Visualization)  
-**Focus:** Practical frameworks for data storytelling, audience-centric reporting, and persuasive presentation design.
-
----
-
-## 📖 Module Overview
-
-This module teaches you how to turn data into powerful communication — tailored to your audience, medium, and business goals. You’ll learn to tell compelling stories with data, write concise reports, and present insights with clarity and impact.
+**Repository:** [Understanding Data Visualization](https://github.com/VibeHarboe/Understanding-Data-Visualization)  
+**Folder:** `/docs/`  
+**Topic:** Translating Analytical Insights into Business Decisions  
+**Real-World Focus:** Business storytelling, strategic reporting, data stakeholder alignment
 
 ---
 
-## 🧭 Real-World Application Overview
-This section transforms theoretical concepts from the Data Communication Concepts course into practical, real-world competencies used in professional data analytics and stakeholder collaboration.
+## 🎯 Purpose
 
-Each part reflects how key communication strategies are applied in real business environments – whether you're presenting data to executives, crafting impactful data reports, or building a persuasive narrative around complex findings.
+This module transforms foundational theory into practical communication tools that help data analysts, BI professionals, and decision-makers align around insights. You'll learn how to:
 
-### 📌 1. Storytelling with Data
-- Understand the **story arc**: context → conflict → resolution.
-- Focus on the **"big idea"** — the single most important message.
-- Apply classic techniques like **setup–conflict–resolution** to guide your audience.
-
-### 📌 2. Preparing to Communicate the Data
-- Define the **audience**: technical vs. non-technical, internal vs. external.
-- Set clear **communication goals**: inform, persuade, or motivate action.
-- Remove barriers: avoid complexity, biases, and irrelevant details.
-
-### 📌 3. Structuring Written Reports
-- Use a business-friendly structure:
-  - Executive Summary  
-  - Key Findings  
-  - Strategic Insights  
-  - Actionable Recommendations
-- Improve readability: headings, short paragraphs, bullets.
-
-### 📌 4. Building Compelling Oral Presentations
-- Design for clarity: one idea per slide.
-- Use storytelling elements in spoken format.
-- Practice delivery: tone, pacing, confidence, and visual emphasis.
+- Shape raw data into clear business narratives  
+- Tailor reports to technical and non-technical audiences  
+- Use structure, tone, and format to drive action  
+- Combine visual storytelling with business context
 
 ---
 
-## 🎯 Learning Outcome
+## 🧭 Core Learning Themes
 
-> Communicate data-driven insights with impact — in reports, slide decks, dashboards, or live presentations — using structure, visual clarity, and audience awareness.
+### 1. Storytelling With Data
+- **Real-World Context:** Helps you pitch insights like churn risk, ROI trends, or campaign performance to senior management.
+- **Key Elements:** Characters (stakeholders), conflict (business problem), and resolution (data-driven recommendation).
+- **Applications:** Dashboard walkthroughs, executive summaries, and pitch decks.
+
+### 2. Audience-Centric Communication
+- **Real-World Context:** Knowing when to show SQL output versus business impact KPIs.
+- **Key Questions:**  
+  - What does the audience already know?  
+  - What decisions do they need to make?  
+  - What level of technical detail is appropriate?
+- **Applications:** Stakeholder interviews, cross-team standups, or client-facing deliverables.
+
+### 3. Structuring Reports for Action
+- **Real-World Context:** Ensuring reports are skim-friendly, strategically ordered, and focused on decision-making.
+- **Frameworks Used:**  
+  - **Pyramid Principle:** Start with the recommendation, then support it with logic and evidence.  
+  - **SCQA (Situation, Complication, Question, Answer)** structure.
+
+- **Applications:**  
+  - Monthly sales performance recaps  
+  - Investor updates  
+  - Product analytics briefs
+
+### 4. Compelling Oral Presentations
+- **Real-World Context:** Presenting dashboards to C-level stakeholders or conducting training sessions for sales teams.
+- **Effective Techniques:**  
+  - Using repetition to reinforce key messages  
+  - Building narrative flow across slides or dashboards  
+  - Using tone, pace, and pauses for emphasis
+- **Applications:**  
+  - Sprint reviews  
+  - Strategic OKR briefings  
+  - Roadmap alignment meetings
 
 ---
 
-## 🎨 Data Storytelling Framework
+## 🔧 Practical Deliverables You Can Apply
 
-```plaintext
-Message
-  ↓
-Story Structure → Beginning / Conflict / Resolution
-  ↓
-Medium → Report / Deck / Dashboard / Email
-  ↓
-Design → Charts / Color / Layout
-  ↓
-Audience → Goals / Prior Knowledge / Attention Span
+- ✅ Executive-ready reporting structures  
+- ✅ Business-focused storyboards for data projects  
+- ✅ Oral delivery techniques for dashboards and walkthroughs  
+- ✅ Tailored insights for different personas (e.g., CMO vs. Product Manager)
 
-🧰 Communication Toolbox
+---
 
-| Tool/Technique             | Description                                                       |
-| -------------------------- | ----------------------------------------------------------------- |
-| **Message-first thinking** | Lead with your key point, then support it with evidence           |
-| **Chart choice**           | Match visual to data type (comparison, distribution, trend, etc.) |
-| **Slide pacing**           | One insight per slide, keep it clean and visual                   |
-| **Audience framing**       | Tie everything to business impact and stakeholder relevance       |
-| **Simplification**         | Remove jargon and noise, highlight only what matters              |
+## 📚 Supplementary Tools
 
-📝 Communication Formats
+The following guides have been created based on both official materials and real-world interpretation:
 
-| Format                | Use Case                               | Audience Type                     |
-| --------------------- | -------------------------------------- | --------------------------------- |
-| **Executive Summary** | Quick overview of key insights         | Executives, decision-makers       |
-| **Detailed Report**   | Full analysis with context and data    | Analysts, data-savvy stakeholders |
-| **Dashboard**         | Real-time or periodic performance view | Operational teams, managers       |
-| **Slide Deck**        | Narrative-driven data communication    | Strategy, sales, leadership       |
-| **Live Presentation** | Alignment and influence via delivery   | Any audience (internal/external)  |
+| Resource Type            | Description                                              |
+|--------------------------|----------------------------------------------------------|
+| `data-storytelling-framework.md` | A reusable storytelling model for business cases       |
+| `reporting-structures.md`        | Templates for dashboards, OKRs, and written briefs    |
+| `audience-mapping-guide.md`      | Guide for tailoring analysis for diverse stakeholders |
+| `presentation-tips.md`           | Best practices for oral delivery of data stories      |
 
-📁 All related assets and visuals are available in the visuals/ folder.
-📚 Supporting material and study references are included in the `docs/` folder.
+_All resources are located in the `/docs/` folder._
+
+---
+
+## 🧠 Example Use Case
+
+> As a Data Analyst, I used the SCQA structure to present sales decline across EU markets. By opening with the situation (YoY trends), highlighting the complication (Q2 churn increase), and ending with action (recommendations to optimize acquisition funnels), I secured stakeholder buy-in for a pilot strategy that cut churn by 12%.
+
+---
+
+## 📎 Related Repositories
+
+- [📊 Exploratory Data Analysis in SQL](https://github.com/VibeHarboe/Exploratory-Data-Analysis-in-SQL)
+- [🧠 Data-Driven Decision Making in SQL](https://github.com/VibeHarboe/Data-Driven-Decision-Making-in-SQL)
+
