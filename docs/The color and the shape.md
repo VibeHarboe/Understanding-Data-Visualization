@@ -90,9 +90,12 @@ This exercise demonstrates how different types of color scales—**qualitative**
 
 ### 🖼️ Visualization Reference
 
-[📷 View color scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/1dcd021307deee0874bac41a38cea095431a1095/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale_1.png)
+[📷 View color scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/921ed5067205b73dfb3984869dc0fed3f0fb8ea0/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale/Choose%20the%20type%20of%20color%20scale_1.png)
 
-![Choosing the Right Color Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/1dcd021307deee0874bac41a38cea095431a1095/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale_1.png "Choosing the Right Color Scale)")
+➡️ All visuals from this exercise are available in the `visuals/` folder:
+[📁 Browse all visuals](https://github.com/VibeHarboe/Understanding-Data-Visualization/tree/eaab83bed30cfddaef128912bdc8df46089d2603/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale)
+
+![Choosing the Right Color Scale](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/921ed5067205b73dfb3984869dc0fed3f0fb8ea0/visuals/The%20color%20and%20the%20shape/Choose%20the%20type%20of%20color%20scale/Choose%20the%20type%20of%20color%20scale_1.png "Choosing the Right Color Scale)")
 
 ---
 
