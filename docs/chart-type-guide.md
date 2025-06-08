@@ -2,7 +2,7 @@
 
 A practical overview of the most common chart types, grouped by analytical purpose. Use this guide to select the right visual tool for your insights and reporting needs.
 
-All images are located in the `visuals/chart-type-guide/` folder.
+All images are located in the `visuals/Chart Type Guide/` folder.
 
 ---
 
@@ -10,7 +10,7 @@ All images are located in the `visuals/chart-type-guide/` folder.
 
 These charts show how individual parts contribute to a total. Best suited for categorical proportions, like market share or survey responses.
 
-![Part-to-Whole Charts](../visuals/chart-type-guide/01_part-to-whole-charts.png)
+![Part-to-Whole Charts](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e642c71f940f05ad2c3d2c0ebd4ed963a5a16b43/visuals/Chart%20Type%20Guide/01_part-to-whole-charts.png)
 
 ---
 
@@ -18,7 +18,7 @@ These charts show how individual parts contribute to a total. Best suited for ca
 
 Visualize how numeric values change over time. Great for time series data, performance tracking, or financial forecasting.
 
-![Capture a Trend](../visuals/chart-type-guide/02_capture-a-trend.png)
+![Capture a Trend](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e642c71f940f05ad2c3d2c0ebd4ed963a5a16b43/visuals/Chart%20Type%20Guide/02_capture-a-trend.png)
 
 ---
 
@@ -26,7 +26,7 @@ Visualize how numeric values change over time. Great for time series data, perfo
 
 Focus attention on KPIs or important figures using cards, gauges, or tabular formats. Ideal for dashboards and executive summaries.
 
-![Visualize a Single Value](../visuals/chart-type-guide/03_visualize-a-single-value.png)
+![Visualize a Single Value](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e642c71f940f05ad2c3d2c0ebd4ed963a5a16b43/visuals/Chart%20Type%20Guide/03_visualize-a-single-value.png)
 
 ---
 
@@ -34,7 +34,7 @@ Focus attention on KPIs or important figures using cards, gauges, or tabular for
 
 Understand how values are spread across a range, identify outliers, or compare variation between groups.
 
-![Capture Distributions](../visuals/chart-type-guide/04_capture-distributions.png)
+![Capture Distributions](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e642c71f940f05ad2c3d2c0ebd4ed963a5a16b43/visuals/Chart%20Type%20Guide/04_capture-distributions.png)
 
 ---
 
@@ -42,7 +42,7 @@ Understand how values are spread across a range, identify outliers, or compare v
 
 Used to show associations between variables or categories. Ideal for correlation, comparison, or clustering insights.
 
-![Visualize Relationships](../visuals/chart-type-guide/05_visualize-relationships.png)
+![Visualize Relationships](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e642c71f940f05ad2c3d2c0ebd4ed963a5a16b43/visuals/Chart%20Type%20Guide/05_visualize-relationships.png)
 
 ---
 
@@ -50,4 +50,4 @@ Used to show associations between variables or categories. Ideal for correlation
 
 Reveal how quantities move across stages or between entities. Powerful for supply chains, user journeys, or process maps.
 
-![Visualize a Flow](../visuals/chart-type-guide/06_visualize-a-flow.png)
+![Visualize a Flow](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/e642c71f940f05ad2c3d2c0ebd4ed963a5a16b43/visuals/Chart%20Type%20Guide/06_visualize-a-flow.png)
