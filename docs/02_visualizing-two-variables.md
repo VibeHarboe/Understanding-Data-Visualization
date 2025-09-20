@@ -111,7 +111,7 @@ This line plot shows cumulative confirmed COVID-19 cases across six countries fr
 
 [📷 View COVID-19 log-scale line plot](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/ccd94eab2e2deaacbc020368bedcaf86578973fc/visuals/Visualizing%20Two%20Variables/Logarithmic-scales-for-line-plots.jpg)
 
-![Logarithmic Scales for Line Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/ccd94eab2e2deaacbc020368bedcaf86578973fc/visuals/Visualizing%20Two%20Variables/Logarithmic-scales-for-line-plots.jpg "ILogarithmic Scales for Line Plots)")
+![Logarithmic Scales for Line Plots](https://github.com/VibeHarboe/Understanding-Data-Visualization/blob/ccd94eab2e2deaacbc020368bedcaf86578973fc/visuals/Visualizing%20Two%20Variables/Logarithmic-scales-for-line-plots.jpg "Logarithmic Scales for Line Plots)")
 
 ---
 
