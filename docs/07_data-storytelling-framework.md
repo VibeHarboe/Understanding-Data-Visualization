@@ -1,6 +1,6 @@
 # 📘 Data Storytelling Framework
 
-**Document:** `data-storytelling-framework.md`  
+**Document:** `07_data-storytelling-framework.md`
 **Location:** `/docs/` folder in [Understanding Data Visualization](https://github.com/VibeHarboe/Understanding-Data-Visualization)
 
 ---
