@@ -69,7 +69,7 @@ This project demonstrates how thoughtful visual design improves insight and inte
 
 📁 Explore the `docs/` folder for all chapter-based walkthroughs and concept files  
 🖼️ Explore `visuals/` for output graphics from each learning module  
-📂 View `data-projects/` to follow applied analytics scenarios
+📂 View `data projects/` to follow applied analytics scenarios
 
 ---
 
